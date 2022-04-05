@@ -15,7 +15,7 @@ Simulate a V2I environment by generating noisy measurements from 3 separate rada
 The 2D ground truth trajectory of the 07 KITTI data sequence, as well as the 𝑥,𝑦 coordinates for the 3 radar towers are displayed below.
 ![image](https://user-images.githubusercontent.com/49213550/161667956-ac279c37-42a0-4acb-a55e-43181921276f.png)
 
-*Ground Truth Trajectory & Radar Tower Positions*
+ *Ground Truth Trajectory & Radar Tower Positions*
 
 ![image](https://user-images.githubusercontent.com/49213550/161668156-de02fffc-6a24-4a24-9f18-28233cb74e0f.png)
 
