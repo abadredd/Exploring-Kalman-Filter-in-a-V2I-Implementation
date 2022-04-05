@@ -22,7 +22,7 @@ The 2D ground truth trajectory of the 07 KITTI data sequence, as well as the ùë
 *Deviation from ground truth for x, and y coordinates*
 
 Visually the Kalman Filter approximation mirrors the trajectory reasonably well with some noisy state approximations that result in oscillations away from the ground truth.
-Next, Fig. 3 displays the deviation of the state estimate vs the ground truth for the x coordinate as well as the y coordinate. It is apparent that the deviation error remains within the 3-sigma contours evaluated.
+The deviation of the state estimate vs the ground truth for the x coordinate as well as the y coordinate. It is apparent that the deviation error remains within the 3-sigma contours evaluated.
 
 
 
